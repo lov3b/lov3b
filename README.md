@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @lov3b
+<!---
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+--->
+- 🌱 I’m currently learning Rust
+<!---
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+--->
+- 📫 Peggamind#7035 on discord
 
 <!---
 lov3b/lov3b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
