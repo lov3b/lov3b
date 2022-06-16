@@ -2,7 +2,7 @@
 <!---
 - 👀 I’m interested in ...
 --->
-- 🌱 I’m currently learning TypeScript Java and Rust. 
+- 🌱 I’m currently learning TypeScript, Java and Rust. 
 <!---
 - 💞️ I’m looking to collaborate on ...
 --->
